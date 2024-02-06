@@ -47,9 +47,9 @@ TFT_eSPI tft = TFT_eSPI();
   // ¿Aún así habrá gente que lo haga? o_O XD
 
   // Modificar los valores entre comillas para adecuarlos a nuestra WIFI/configuración:
-  const char* ssid = "Kaitain"; // NOMBRE de la red WIFI, la misma en la que está el Trydan
-  const char* password = "Tengounavacalechera69"; // CLAVE de la red WIFI
-  const char* ip = "192.168.1.30"; // IP del Trydan. Se le debe haber asignado previamente una IP FIJA
+  const char* ssid = "nombredetuwifi"; // NOMBRE de la red WIFI, la misma en la que está el Trydan
+  const char* password = "ContraSeñadeTUWifi"; // CLAVE de la red WIFI
+  const char* ip = "192.168.X.X"; // IP del Trydan. Se le debe haber asignado previamente una IP FIJA
   int refresco = 5; // Refresco de la información mostrada en pantalla. Por defecto 5 segundos. Cuidado con reducirla y agobiar al Trydan
 // FIN de la configuración de la chinchilla
 
