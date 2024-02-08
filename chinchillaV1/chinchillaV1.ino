@@ -47,7 +47,8 @@ void handleRoot() {
   response += "<br>";
   
   response += "<p>IP Chinchilla: " + WiFi.localIP().toString() + "</p>";
-  response += "<p>Firmware: " + firmi + "</p>";
+  
+  response += "<p>Firmware Trydan: " + firmi + "</p>";
   response += "</body></html>";
   server.send(200, "text/html", response);
 }
