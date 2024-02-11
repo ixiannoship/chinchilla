@@ -1,6 +1,8 @@
 # chinchilla
 CHINCHILLA V1.0 | Telegram @krujiente
 
+Links de compra de diversos componentes al final del archivo.
+
 Accesorio para el cargador Trydan de V2C | Grupo Telegram t.me/v2c_trydan
 
 Visualiza información relativa a diversas cargas y producción fotovoltaica
@@ -51,3 +53,16 @@ Ver el archivo instalacion.txt para configurar correctamente la chinchilla.
 Si te ha gustado la chinchilla, quieres agradecerlo y te vas a comprar un Tesla, puedes usar mi referido :)
 
 https://www.tesla.com/referral/vctormanuel88854
+
+Componentes:
+Estos enlaces son un ejemplo, se pueden comprar en otros vendedores/tiendas.
+
+Link de compra ESP32 TTGO T-display 1,4":
+https://a.aliexpress.com/_EJ6B2dT
+
+Link de compra de carcasa. Rebajar un par de milimetros la parte inferior de la ventana de la pantalla:
+https://a.aliexpress.com/_EyuKMlb
+
+Link para imprimir tu mismo la carcasa:
+https://www.thingiverse.com/search?q=Ttgo+t-display&page=1
+
