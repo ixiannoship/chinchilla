@@ -47,3 +47,7 @@ Por orden muestra:
 Hay que tener en cuenta que las desconexiones pueden deberse a una red wifi defectuosa o mal configurada, o bien a un mal funcionamiento del Trydan.
 
 Ver el archivo instalacion.txt para configurar correctamente la chinchilla.
+
+Si te ha gustado la chinchilla, quieres agradecerlo y te vas a comprar un Tesla, puedes usar mi referido :)
+
+https://www.tesla.com/referral/vctormanuel88854
