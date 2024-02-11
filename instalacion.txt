@@ -6,6 +6,8 @@ Se recomienda ver este vídeo, a partir del minuto 2:29 https://www.youtube.com/
 
 La línea para ponder instalar la biblioteca TFT_eSPI es: https://dl.espressif.com/dl/package_esp32_index.json
 
+Instalar la librería Callmebot_ES32 del mismo modo que la anterior.
+
 Escoger la placa ES32 Dev Module en lugar de la del video.
 
 Si no las tenemos, instalar las librerias ArduinoOTA y ArduinoJson
@@ -31,6 +33,12 @@ Se muestra el código y lo configuramos para poder funcionar con nuestra red WIF
 - NO SE RECOMIENDA redes mixtas 2,4 y 5 Ghz con el mismo nombre, puede ser el origen de posibles problemas de conexión y volvernos locos porque ni la chinchilla ni/o el Trydan conectan o pierden la señal. 
 
 - NO CONECTAR a redes de 5 Ghz, ni el Trydan ni la chinchilla.
+
+Bot Telegram para recibir avisos:
+
+Buscar en Telegram el bot @CallMeBot_txtbot y pulsamos INICIAR
+
+Recordad poner vuestro nombre de usuario de Telegram, que comienza por @ en la configuración de la chinchilla.
 
 SUBIR SOFTWARE A LA PLACA
 
