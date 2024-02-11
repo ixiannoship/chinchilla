@@ -39,3 +39,11 @@ Por orden muestra:
 -IP de la chinchilla
 
 -Versión del Firmware del Trydan
+
+* Es posible acceder a la chinchilla para consultar los datos en navegador. el formato es http://ipchinchilla:8080
+
+* Notifica via bot de Telegram de las posibles desconexiones del Trydan.
+
+Hay que tener en cuenta que las desconexiones pueden deberse a una red wifi defectuosa o mal configurada, o bien a un mal funcionamiento del Trydan.
+
+Ver el archivo instalacion.txt para configurar correctamente la chinchilla.
