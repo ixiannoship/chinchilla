@@ -225,7 +225,7 @@ void loop() {
     tft.setTextColor(TFT_MAGENTA);
     tft.drawString("NO JSON", 0,70, 2);
     if (a == 0){
-        Callmebot.telegramMessage(usuario, "Incidencia en Trydan - Revisar estado 🙄");
+        Callmebot.telegramMessage(usuario, "Incidencia en Trydan - Revisar estado 👹");
         a=1;
     }   
   }
