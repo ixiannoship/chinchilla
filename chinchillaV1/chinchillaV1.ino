@@ -144,7 +144,7 @@ void loop() {
       tft.pushImage(0, 34, 30, 30, icasa);
       tft.setTextColor(TFT_WHITE, TFT_BLACK);
       tft.setTextDatum(TR_DATUM);
-      tft.drawString(String(int(casa)), 135, 34, 1);
+      tft.drawString(String(abs(int(casa))), 135, 34, 1);
     
       // Potencia de carga suministrando al coche
       tft.pushImage(0, 68, 30, 30, icoche);
